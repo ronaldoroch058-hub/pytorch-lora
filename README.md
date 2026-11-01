@@ -71,4 +71,3 @@ hardware and PyTorch versions.
 ## References
 
 - Hu, E. J. et al. *LoRA: Low-Rank Adaptation of Large Language Models.* 2021. [arXiv:2106.09685](https://arxiv.org/abs/2106.09685)
-- Original notebook: [hkproj/pytorch-lora](https://github.com/hkproj/pytorch-lora)
